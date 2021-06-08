@@ -8,7 +8,7 @@ export default function App() {
     return (
         <div>
             {/* <TodosFetch /> */}
-            <TodosAxios />
+            {/* <TodosAxios /> */}
             <TodosAsync />
         </div>
     )
